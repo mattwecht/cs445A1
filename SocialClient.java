@@ -1,4 +1,3 @@
-package cs445.a1;
 
 import java.util.NoSuchElementException;
 import java.util.Scanner;
